@@ -14,6 +14,14 @@ Works for [Tezpur University](http://www.tezu.ernet.in/) result pdfs only.
 
 Results in our college comes in the form of large pdfs where we have to keep scrolling until we find our `gpa(sgpa/cgpa)`.
 
+## Steps to setup
+
+- `pip3 install -r requirements.txt`
+- `git clone git@github.com:raajtilaksarma/college-results.git`
+- `cd college-results`
+- Run `cgpa.py` with required arguments
+- You may face [this](https://stackoverflow.com/questions/45912641/unable-to-install-pdftotext-on-python-3-6-missing-poppler) issue while `pdftotext` is being installed. 
+
 
 ## Scripts
 
