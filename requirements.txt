@@ -1,0 +1,3 @@
+pdftotext
+argparse
+pandas
