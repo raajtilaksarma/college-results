@@ -2,6 +2,10 @@
 
 Fetch your college result from a pdf. Strictly for Tezpur University students.
 
+## Demo
+
+![usage-gif](https://github.com/raajtilaksarma/college-results/blob/master/college-results.gif)
+
 ## Disclaimer
 
 Works for [Tezpur University](http://www.tezu.ernet.in/) result pdfs only.
